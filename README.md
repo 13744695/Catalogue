@@ -1,2 +1,3 @@
 # Catalogue
-Catalogue of handy bits of code - handy for reference purposes
+Catalogue of handy bits of code as I come across them 
+   - handy for reference purposes
