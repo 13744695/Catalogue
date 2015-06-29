@@ -4,9 +4,7 @@ public class FormatingSysOut {
 	public static void main(String[] args) {
 		
 		
-		String p="1,234";
-		Double d=Double.valueOf(p); 
-		System.out.println(d);
+
 		
 		System.out.println("Power of two table");
 		System.out.println();
